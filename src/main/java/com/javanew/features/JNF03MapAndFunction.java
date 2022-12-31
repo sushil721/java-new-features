@@ -20,7 +20,7 @@ public class JNF03MapAndFunction {
 		// 2. Find the number of charectors of all the courses title.
 		//courses.stream().map(x -> x.length()).forEach(System.out::println);
 		
-//=> Function with Map :-
+//=> Function with Map :- take one type input and return another/same type output.
 		//  -------------------
 		// 3. Find the number of charectors of all the courses title using function.
 		//Function<? super String, ? extends Integer> findSizeMapper = x -> x.length();
